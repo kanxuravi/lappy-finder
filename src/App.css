@@ -1,0 +1,50 @@
+h1{
+	font-size: 48px;
+	padding: 15px;
+	font-family: 'Sniglet', cursive;
+	background: -webkit-linear-gradient(90deg, #0f2027, #203a43, #2c5364);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2{
+	margin-top: 0px !important;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.headpaper{
+	background: rgba(255,255,255,0.7) !important;
+	text-align: center;
+}
+
+.middle{
+	background: rgba(255,255,255,0.7) !important;
+	text-align: center;
+	padding: 30px !important;
+}
+
+body{
+  background: #0f2027;
+  background: -webkit-radial-gradient(#0f2027, #203a43, #2c5364); 
+  background: radial-gradient(#0f2027, #203a43, #2c5364);
+}
+
+.btncolor{
+	background: linear-gradient(#0f2027, #203a43, #2c5364);	
+	font-family: 'Sniglet', cursive !important;
+	font-size: 16px !important;
+}
+
+
+
+.marginup{
+	margin-left: 40px !important;
+	margin-right: 30px !important;
+	margin-bottom: 0px !important;
+	margin-top:  0px !important;
+}
+
+.selfont{
+	font-family: 'Ubuntu', sans-serif !important;
+}
+
